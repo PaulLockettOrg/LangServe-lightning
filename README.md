@@ -39,8 +39,6 @@ $PROJECT_NAME = { path = "packages/$PROJECT_NAME" }
 #
 ```
 
-Then redeploy by pushing these changes to your git repo for this railway service.
-
 ## Setup LangSmith (Optional)
 LangSmith will help us trace, monitor and debug LangChain applications. 
 LangSmith is currently in private beta, you can sign up [here](https://smith.langchain.com/). 
