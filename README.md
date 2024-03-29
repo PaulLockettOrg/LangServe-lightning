@@ -1,11 +1,11 @@
-# LangServe  🦜 🏓 on Railway 🚂
+# LangServe  🦜 🏓 on Lightning.AI 🚂
 
 
-## Deploy on Railway
+## Deploy on Lightning
+TBA
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/pW9tXP?referralCode=c-aq4K)
-
-> :information_source: **Make sure to set your enviromental variables! The defaults are only placeholders.**
+> :information_source: **Make sure to set your environmental variables (teamspace secrets)! **
+<img width="661" alt="Screenshot 2024-03-29 at 10 53 51 AM" src="https://github.com/PaulLockettOrg/LangServe-lightning/assets/20708690/4cf5d3c9-f588-43ad-9301-02d46affff7e">
 
 ## Adding packages
 Add the package to your local repo
@@ -49,7 +49,7 @@ If you don't have access, you can skip this section
 
 
 ```shell
-# add these to your railway enviromental variables or your local .env
+# add these to your lightning AI enviromental variables
 LANGCHAIN_TRACING_V2=true
 LANGCHAIN_API_KEY=<your-api-key>
 LANGCHAIN_PROJECT=<your-project>  
