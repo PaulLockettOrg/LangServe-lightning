@@ -1,5 +1,4 @@
-# LangServe  🦜 🏓 on Lightning.AI 🚂
-
+# LangServe  🦜 🏓 on Lightning.AI ⚡️
 
 ## Deploy on Lightning
 TBA
